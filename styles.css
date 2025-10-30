@@ -1,5 +1,4 @@
-
-.input:nth-child(even) {
+.input:nth-of-type(even) {
   color: red;
 }
 
